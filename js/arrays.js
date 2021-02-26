@@ -82,6 +82,8 @@ for (let l = 0; l < favMovies.length; l++) {
     console.log(favMovies[l].toUpperCase());
 }
 
+// Movie project using while instead of for
+
 // let l = 0;
 // while (l < favMovies.length) {
 //     console.log(favMovies[l].toUpperCase());
