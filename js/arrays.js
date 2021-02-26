@@ -68,6 +68,9 @@ for (let i = 0; i < fruits.length; i++) {
     console.log(fruits[i]);
 }
 
+
+/*** Challenge */
+
 // Create an array of you top 5 movies
 // create a loop that console.logs each of those movies
 // use toUpperCase() to console.log all movies in all caps
@@ -89,3 +92,13 @@ for (let l = 0; l < favMovies.length; l++) {
 //     console.log(favMovies[l].toUpperCase());
 //     l++;
 // }
+
+
+// concat method
+
+// let alexBritMovies = alexMovies.concat(movies);
+// console.log(alexBritMovies);
+
+// let mixedArray = ['string', 1, false];
+
+// console.log(mixedArray)
