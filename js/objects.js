@@ -120,7 +120,7 @@ console.log('my evil animal names: ', evilAnimalNames);
 // console.log('name' in animals);
 
 
-// // Merwitt
+// // Merhawitt
 
 // for (let key in animals) {
 //     // debugger;
